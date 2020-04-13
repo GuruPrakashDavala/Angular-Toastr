@@ -1,0 +1,2 @@
+# CheckToastr
+Angular Toastr
